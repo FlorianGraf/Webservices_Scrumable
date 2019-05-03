@@ -10,6 +10,7 @@ public class Database {
 	private Database() {
 		this.fillBacklogItems();
 	}
+	
 
 	public static Database newInstance() {
 		if (instance == null) {
