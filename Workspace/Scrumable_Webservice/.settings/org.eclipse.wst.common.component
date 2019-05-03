@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Scrumable_Webservice">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Scrumable_Webservice"/>
+        <property name="java-output-path" value="/Scrumable_Webservice/build/classes"/>
+    </wb-module>
+</project-modules>
